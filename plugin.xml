@@ -12,8 +12,7 @@
     <keywords>cordova,ios,itms,90475</keywords>
     <repo>https://github.com/omarmeky/cordova-ios-itms-9047.git</repo>
         <platform name="ios">
-                <config-file target="*-Info.plist" >
-                        <key>UIRequiresFullScreen</key>
+                <config-file target="*-Info.plist" parent="UIRequiresFullScreen">
                         <string>YES</string>
                 </config-file>
         </platform>
