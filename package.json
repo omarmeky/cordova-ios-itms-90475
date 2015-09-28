@@ -1,14 +1,15 @@
 {
-    "version": "0.3.0",
-    "name": "sk.kcorp.cordova.ios-security",
-    "cordova_name": "IOS Security",
-    "description": "Cordova Device Plugin",
+    "version": "0.0.0",
+    "name": "omar.meky.cordova.ios-itms-90475",
+    "cordova_name": "IOS ITMS 90475",
+    "description": "Cordova ITMS 90475 Error Fix Plugin",
     "license": "MIT",
-    "repo": "https://github.com/robertklein/cordova-ios-security.git",
+    "repo": "https://github.com/omarmeky/cordova-ios-itms-90475.git",
     "keywords": [
         "cordova",
         "ios",
-        "security"
+        "itms",
+        "90475"
     ],
     "platforms": [
         "ios"
